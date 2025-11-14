@@ -141,6 +141,16 @@ Usar `venv` evita conflitos de versões de pacotes com outros projetos. Sempre *
 ---
 ## 💻 Uso
 
+### **Interface Gráfica (GUI) - Método Recomendado:**
+
+Para uma experiência mais amigável, use a interface gráfica:
+
+```bash
+python esocial_gui.py
+```
+
+A interface permite configurar todas as opções de forma visual e intuitiva, com abas para configurações, conversão e visualização de logs.
+
 ### **Uso Básico:**
 
 **Linux**
@@ -162,7 +172,7 @@ python s5002_to_pdf.py /caminho/xmls /caminho/pdfs --ano 2025 --csv funcionarios
 ### **Com Todos os CSVs (NOVO v6.2.0):**
 
 **Linux (com quebra de linha usando \\):**
-```bash
+``bash
 python s5002_to_pdf.py /caminho/xmls /caminho/pdfs --ano 2025 \
   --csv funcionarios.csv \
   --csv-dependentes dependentes.csv \
@@ -198,7 +208,7 @@ python s5002_to_pdf.py \
 ```
 
 **Windows (PowerShell com ^):**
-```powershell
+```
 python s5002_to_pdf.py ^
   .\exemplos_2025 ^
   .\pdfs_gerados ^

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\esocial_s5002_comprovante_rendimentos\\esocial_gui.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:esocial_gui.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_01_simples.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exemplos\\exemplo_01_simples.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_02_dependentes.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exemplos\\exemplo_02_dependentes.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\esocial_s5002_comprovante_rendimentos\\s5002_to_pdf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:s5002_to_pdf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\esocial_s5002_comprovante_rendimentos\\gerador_xml_s5002_v6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gerador_xml_s5002_v6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exemplo_02_dependentes.xml",
+              "DocumentMoniker": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_02_dependentes.xml",
+              "RelativeDocumentMoniker": "exemplos\\exemplo_02_dependentes.xml",
+              "ToolTip": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_02_dependentes.xml",
+              "RelativeToolTip": "exemplos\\exemplo_02_dependentes.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-11T12:27:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exemplo_01_simples.xml",
+              "DocumentMoniker": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_01_simples.xml",
+              "RelativeDocumentMoniker": "exemplos\\exemplo_01_simples.xml",
+              "ToolTip": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\exemplos\\exemplo_01_simples.xml",
+              "RelativeToolTip": "exemplos\\exemplo_01_simples.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-11T12:27:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "esocial_gui.py",
+              "DocumentMoniker": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\esocial_gui.py",
+              "RelativeDocumentMoniker": "esocial_gui.py",
+              "ToolTip": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\esocial_gui.py",
+              "RelativeToolTip": "esocial_gui.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-10T12:15:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gerador_xml_s5002_v6.py",
+              "DocumentMoniker": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\gerador_xml_s5002_v6.py",
+              "RelativeDocumentMoniker": "gerador_xml_s5002_v6.py",
+              "ToolTip": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\gerador_xml_s5002_v6.py",
+              "RelativeToolTip": "gerador_xml_s5002_v6.py",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAwwLkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-10T12:15:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "s5002_to_pdf.py",
+              "DocumentMoniker": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\s5002_to_pdf.py",
+              "RelativeDocumentMoniker": "s5002_to_pdf.py",
+              "ToolTip": "C:\\Python\\esocial_s5002_comprovante_rendimentos\\s5002_to_pdf.py",
+              "RelativeToolTip": "s5002_to_pdf.py",
+              "ViewState": "AgIAABkKAAAAAAAAAAAYwPwJAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-10T12:14:50.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

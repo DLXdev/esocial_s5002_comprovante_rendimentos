@@ -332,7 +332,20 @@ from typing import List, Optional
 
 logger = logging.getLogger(__name__)
 
-# Malformed class definition removed to fix linter errors
+@dataclass
+class RendimentoExclusivo:
+    RendimentoTributavel,
+    RendimentoIsento,
+    Dependente,
+    PensaoAlimenticia,
+    PrevidenciaComplementar,
+    PlanoSaude,
+    ReembolsoMedico,
+    InfoRRA,
+    PagamentoExterior,
+    ProcessoJudicial,
+    InfoIRCR,
+    PerAnt,
 
     
 from datetime import datetime
@@ -341,13 +354,30 @@ from typing import List, Optional
 from dataclasses import dataclass
 from enum import Enum
 
-# These imports were causing 'No module named 'src'' errors and are not needed
-# from src.e2e.config import settings
-# from src.e2e.schemas.base import Base
-# from src.e2e.schemas.fonte_pagadora import FontePagadora
+from src.e2e.config import settings
+
+from src.e2e.schemas.base import Base
+from src.e2e.schemas.fonte_pagadora import FontePagadora
 
 
-# Duplicate class definitions removed to fix linter errors
+class InfoProcJudRub(Enum):
+    """Informações do processo judicial e rubrica"""
+    pass
+
+
+class TotApurDia(Enum):
+    """Total apurado por dia"""
+    pass
+
+
+class ConsolidApurMen(Enum):
+    """Consolidação do apurado mensal"""
+    pass
+
+
+class TotInfoDmDev(Enum):
+    """Totalizadores do detalhamento da folha"""
+    pass
 
 
 logger = logging.getLogger(__name__)
@@ -1272,6 +1302,7 @@ class PDFGenerator:
         
     def gerar_pdf(self, comprovante: ComprovanteRendimentos, output_path: str):
         """Gera o PDF do comprovante com paginação correta"""
+        import os
         try:
             # Sistema de convergência: loop até paginação estabilizar
             temp_path = output_path + ".temp"
@@ -2759,6 +2790,7 @@ def processar_xmls_agrupados(args: Tuple[List[str], str, str, Optional[str], Dad
 def processar_xmls(input_dir: str, output_dir: str, ano: Optional[str] = None, workers: int = 4, 
                   csv_path: Optional[str] = None, csv_dependentes: Optional[str] = None, csv_entidades: Optional[str] = None):
     """Processa XMLs e gera PDFs - versão para chamada direta (não CLI)"""
+    import os
     from pathlib import Path
     from datetime import datetime
     
@@ -2821,7 +2853,7 @@ def main():
     parser.add_argument('--workers', type=int, default=4, 
                        help='Número de workers paralelos (padrão: 4)')
     
-    args = parser.parse_args() #2
+    args = parser.parse_args()
 
     # Validar diretórios
     if not os.path.isdir(args.input_dir):
